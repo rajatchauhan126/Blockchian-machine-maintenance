@@ -1,0 +1,5 @@
+testrpc
+
+truffle migrate
+
+npm run dev
